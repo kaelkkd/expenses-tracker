@@ -1,8 +1,9 @@
 # **Expenses Tracker**  
-A web application designed to help you manage your finances and expenses. 
 ![GitHub repo size](https://img.shields.io/github/repo-size/kaelkkd/expenses-tracker?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/kaelkkd/expenses-tracker?style=for-the-badge)
 ![Project Status](https://img.shields.io/badge/Project-In%20Progress-yellow?style=for-the-badge)
+
+A web application designed to help you manage your finances and expenses. 
 
 ## **Getting Started**  
 
